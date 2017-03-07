@@ -10,3 +10,5 @@ C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\Window
 C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
 C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\WindowsApp\obj\Debug\WindowsApp.exe
 C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\WindowsApp\obj\Debug\WindowsApp.Form2.resources
+C:\Users\MoisésAlejandro\Source\Repos\System-Innovation\SystemInnovation\WindowsApp\obj\Debug\WindowsApp.Form3.resources
